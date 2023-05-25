@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python-Final-Project
+# IMB's Machine Learning with Python Final Project
 Practiced machine learning models such as:
 - Linear Regression
 - KNN
